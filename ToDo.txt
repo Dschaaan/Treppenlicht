@@ -1,0 +1,6 @@
+To Do List
+
+- Test 5V Supply
+- Set Parameters to final Code and upload
+- Checkt automated run of arduino
+- Create and add stl files for 3d printed parts
